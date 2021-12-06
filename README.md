@@ -16,9 +16,9 @@ This project utilizes npm Jest testing along with the npm Inquirer to generate p
 - [Tests](#tests)
 - [data](#data)
 
-# Screenshot
+## Screenshot
 
-<img src="profile-generator\src\images\profile-gen-screenshot.png">
+<img src="..\images\profile-gen-screenshot.png">
 
 # Installation
 
