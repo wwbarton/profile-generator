@@ -46,3 +46,7 @@ Integrated terminal.
 Contact me here with any questions: wwalt.barton@gmail.com
 
 #Find me on GitHub: [wwbarton](https://github.com/wwbarton)
+
+# Video Walkthrough Link
+
+https://www.youtube.com/watch?v=wlnJ97uA3Ls
