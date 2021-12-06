@@ -89,7 +89,7 @@ class Application {
                     `;
       } else if (this.listEmployees[i].type == "Engineer") {
         this.htmlString += `
-                        <p class="card-text">GitHub: <a href="https://github.com/${this.listEmployees[i].username}" class="card-link">${this.listEmployees[i].username}</a></p>
+                        <p class="card-text">GitHub: <a href="https://github.com/${this.listEmployees[i].username}" class="card-link" target="_blank">${this.listEmployees[i].username}</a></p>
                         </div>
                     </div>
                     `;
